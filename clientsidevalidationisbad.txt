@@ -1,0 +1,13 @@
+The front end JS had this section of code
+
+p = String.fromCharCode(74,97,118,97,83,99,114,105,112,116,73,115,83,101,99,117,114,101)
+
+So I put that in a JS file and created a function called gimmeWord where I printed p.
+
+Output: JavaScriptIsSecure
+
+since the username is clearly given as "admin" I compledted the credentials and logged in
+
+Username = admin
+
+Password = JavaScriptIsSecure

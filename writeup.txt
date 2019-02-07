@@ -1,0 +1,17 @@
+Process:
+
+I first defined the problem and created a workflow for solving it. 
+
+Problem: Get the message from the page, hash it, and then send it back within 2 seconds.
+
+I divided my code into 4 steps.
+
+1. Login to the site and get the challenge page content
+
+2. Parse the page content down to just the message
+
+3. Hash the message into a hash object
+
+4. Send the hashed message back to challenge page
+
+Solution - https://github.com/DanWizard/ringzer0/blob/master/hash_it.py
